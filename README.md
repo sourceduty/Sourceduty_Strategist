@@ -16,6 +16,8 @@ In addition to growth strategies, the Sourceduty Strategist provides advice on s
 [Sourceduty Business](https://github.com/sourceduty/sourceduty_business)
 <br>
 [Sourceduty Services](https://github.com/sourceduty/Sourceduty_Services)
+<br>
+[Sourceduty Explorer](https://github.com/sourceduty/Sourceduty_Explorer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
