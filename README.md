@@ -40,6 +40,8 @@ Another strategic avenue is joining forces with open-source communities and proj
 [Sourceduty Services](https://github.com/sourceduty/Sourceduty_Services)
 <br>
 [Sourceduty Explorer](https://github.com/sourceduty/Sourceduty_Explorer)
+<br>
+[Sourceduty Employee](https://github.com/sourceduty/Sourceduty_Employee)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
