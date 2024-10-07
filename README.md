@@ -1,4 +1,4 @@
-![Sourceduty](https://github.com/user-attachments/assets/711912c6-dd5a-4ef5-854e-efe1988b57f3)
+![Sourceduty](https://github.com/user-attachments/assets/2858bece-072e-4cc8-bff1-bc2f0b020af0)
 
 > Support and enhance the growth of Sourceduty.
 
