@@ -1,4 +1,4 @@
-![Challenge](https://github.com/user-attachments/assets/8e9a4cd1-f568-46bc-af92-f7718f1dd70c)
+![Sourceduty 30 Days](https://github.com/user-attachments/assets/2bb42803-c5e8-43ff-8c02-e2da5a92b924)
 
 > Support and enhance the growth of Sourceduty.
 
