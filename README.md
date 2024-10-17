@@ -1,4 +1,4 @@
-![Sourceduty 30 Days](https://github.com/user-attachments/assets/2bb42803-c5e8-43ff-8c02-e2da5a92b924)
+![Sourceduty](https://github.com/user-attachments/assets/1af9001a-3b8a-4a04-9677-b6df42999fdd)
 
 > Support and enhance the growth of Sourceduty.
 
@@ -32,7 +32,7 @@ Another strategic avenue is joining forces with open-source communities and proj
 
 #
 
-![Airplanes Meme](https://github.com/user-attachments/assets/19fe430a-eec8-4015-a5f5-f3dac75f527d)
+![Sourceduty 30 Days](https://github.com/user-attachments/assets/2bb42803-c5e8-43ff-8c02-e2da5a92b924)
 
 #
 ### Related Links
